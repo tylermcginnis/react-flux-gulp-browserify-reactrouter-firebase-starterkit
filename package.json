@@ -1,0 +1,40 @@
+{
+  "name": "react-flux-gulp-browserify-reactrouter-firebase-starterkit",
+  "version": "1.0.0",
+  "description": "Candidate for longest Repository name. Starter kit for a React.js, Flux, React-Router, Gulp, Browserify, Firebase app.",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tylermcginnis/react-flux-gulp-browserify-reactrouter-firebase-starterkit.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "flux",
+    "firebase",
+    "react-router",
+    "gulp",
+    "browserify",
+    "hackathon",
+    "starter kit"
+  ],
+  "author": "Tyler McGinnis",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.5.0",
+    "events": "^1.0.2",
+    "firebase": "^2.1.1",
+    "flux": "^2.0.1",
+    "react": "^0.12.2",
+    "react-router": "^0.11.6"
+  },
+  "devDependencies": {
+    "browserify": "^8.1.1",
+    "gulp": "^3.8.10",
+    "gulp-html-replace": "^1.4.3",
+    "gulp-streamify": "0.0.5",
+    "gulp-uglify": "^1.1.0",
+    "vinyl-source-stream": "^1.0.0",
+    "watchify": "^2.2.1"
+  }
+}
