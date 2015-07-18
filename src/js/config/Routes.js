@@ -1,4 +1,4 @@
-var React = require('React');
+var React = require('react');
 var App = require('../components/App');
 var Router = require('react-router');
 var DefaultRoute = Router.DefaultRoute;
